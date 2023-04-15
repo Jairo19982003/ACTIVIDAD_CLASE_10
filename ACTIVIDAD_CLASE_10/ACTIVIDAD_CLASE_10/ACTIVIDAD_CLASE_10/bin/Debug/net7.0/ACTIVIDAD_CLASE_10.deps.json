@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ACTIVIDAD_CLASE_10/1.0.0": {
+        "runtime": {
+          "ACTIVIDAD_CLASE_10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ACTIVIDAD_CLASE_10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
